@@ -13,6 +13,8 @@ BuildRequires: python3
 BuildRequires: systemd-rpm-macros
 BuildRequires: systemd-udev
 
+ExclusiveArch: noarch
+
 %description
 %{Summary}.
 
